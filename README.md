@@ -23,19 +23,19 @@ pip install SpeechRecognition pyaudio gtts playsound
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/simple-python-voice-assistant.git
+   git clone https://github.com/saikrishna488/voice-assistant.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd simple-python-voice-assistant
+   cd voice-assistant
    ```
 
 3. Run the Python script:
 
    ```bash
-   python voice_assistant.py
+   python main.py
    ```
 
 4. The voice assistant will prompt you to speak a command. You can say commands like:
