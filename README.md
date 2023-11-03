@@ -65,7 +65,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- Your Name
+- Sai Krishna Reddy
 - GitHub: [Your GitHub Profile](https://github.com/saikrishna488)
 
 ## Acknowledgments
